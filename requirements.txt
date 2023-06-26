@@ -22,7 +22,6 @@ decorator==5.1.1
 defusedxml==0.7.1
 distlib==0.3.4
 Django==4.0.1
-dlib==19.24.0
 entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.15.3
